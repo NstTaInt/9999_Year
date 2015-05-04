@@ -1,4 +1,11 @@
-#9999_Year
-#Version: 0.0.0
-#Team: VaselevsGames
-Members: NstTaInt
+#Project name:
+9999 Year
+
+#Current version:
+0.0.0
+
+#Team:
+VaselevsGames
+
+#Members:
+NstTaInt
